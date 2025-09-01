@@ -1,6 +1,6 @@
 # *️⃣ About Me:
 ### Hi, I'm Artem 👋
-I'm not Software or Hardware Engineer, or anything else.<br/>
+I'm not Software or Hardware Engineer, but I'm Elixir Manager.<br/>
 
 Now i'm study at [KNU](https://www.knu.edu.ua/) on Computer Engineering<br/>
 
