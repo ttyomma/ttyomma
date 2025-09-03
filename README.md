@@ -1,5 +1,6 @@
 # *️⃣ About Me:
 ### Profesional Elixir Manager<br/>
+<img src="https://www.deckshop.pro/img/card_ed/Archers.png">
 
 I don't have my Website, but i'm have my [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/sayg00dbye) account<br/>
 
