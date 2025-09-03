@@ -2,8 +2,8 @@
 ### Profesional Elixir Manager<br/>
 
 <div>
-  <img src="https://www.deckshop.pro/img/card_ed/Balloon.png"> <img src="https://www.deckshop.pro/img/card_ed/Miner.png"> <img src="https://www.deckshop.pro/img/card_ed/IceGolem.png"> <img src="https://www.deckshop.pro/img/card_ed/Musk.png"> </br>
-  <img src="https://www.deckshop.pro/img/card_ed/Skellies.png"> <img src="https://www.deckshop.pro/img/card_ed/BombTower.png"> <img src="https://www.deckshop.pro/img/card_ed/Vines.png"> <img src="https://www.deckshop.pro/img/card_ed/BarbBarrel.png">
+  <img src="https://www.deckshop.pro/img/card_ed/Balloon.png" width="50"> <img src="https://www.deckshop.pro/img/card_ed/Miner.png" width="50"> <img src="https://www.deckshop.pro/img/card_ed/IceGolem.png" width="50"> <img src="https://www.deckshop.pro/img/card_ed/Musk.png" width="50"> </br>
+  <img src="https://www.deckshop.pro/img/card_ed/Skellies.png" width="50"> <img src="https://www.deckshop.pro/img/card_ed/BombTower.png" width="50"> <img src="https://www.deckshop.pro/img/card_ed/Vines.png" width="50"> <img src="https://www.deckshop.pro/img/card_ed/BarbBarrel.png" width="50">
 </div>
 
 
