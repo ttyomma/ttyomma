@@ -1,16 +1,12 @@
 # *️⃣ About Me:
 
 <details>
-  <summary>Уровень 1</summary>
-  
-  <details>
-    <summary>Уровень 2</summary>
-    
-    Скрытый контент второго уровня.
-  </details>
+    <summary>Profesional Elixir Manager Deck</summary>
+  <div>
+  <img src="https://www.deckshop.pro/img/card_ed/Balloon.png" width="50"> <img src="https://www.deckshop.pro/img/card_ed/Miner.png" width="50"> <img src="https://www.deckshop.pro/img/card_ed/IceGolem.png" width="50"> <img src="https://www.deckshop.pro/img/card_ed/Musk.png" width="50"> </br>
+  <img src="https://www.deckshop.pro/img/card_ed/Skellies.png" width="50"> <img src="https://www.deckshop.pro/img/card_ed/BombTower.png" width="50"> <img src="https://www.deckshop.pro/img/card_ed/Vines.png" width="50"> <img src="https://www.deckshop.pro/img/card_ed/BarbBarrel.png" width="50">
+</div>
 </details>
-
-### Profesional Elixir Manager<br/>
 
 <div>
   <img src="https://www.deckshop.pro/img/card_ed/Balloon.png" width="50"> <img src="https://www.deckshop.pro/img/card_ed/Miner.png" width="50"> <img src="https://www.deckshop.pro/img/card_ed/IceGolem.png" width="50"> <img src="https://www.deckshop.pro/img/card_ed/Musk.png" width="50"> </br>
