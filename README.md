@@ -1,4 +1,15 @@
 # *️⃣ About Me:
+
+<details>
+  <summary>Уровень 1</summary>
+  
+  <details>
+    <summary>Уровень 2</summary>
+    
+    Скрытый контент второго уровня.
+  </details>
+</details>
+
 ### Profesional Elixir Manager<br/>
 
 <div>
