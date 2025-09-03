@@ -1,6 +1,11 @@
 # *️⃣ About Me:
 ### Profesional Elixir Manager<br/>
-<img src="https://www.deckshop.pro/img/card_ed/Archers.png">
+
+<div>
+  <img src="https://www.deckshop.pro/img/card_ed/Balloon.png"> <img src="https://www.deckshop.pro/img/card_ed/Miner.png"> <img src="https://www.deckshop.pro/img/card_ed/IceGolem.png"> <img src="https://www.deckshop.pro/img/card_ed/Musk.png"> </br>
+  <img src="https://www.deckshop.pro/img/card_ed/Skellies.png"> <img src="https://www.deckshop.pro/img/card_ed/BombTower.png"> <img src="https://www.deckshop.pro/img/card_ed/Vines.png"> <img src="https://www.deckshop.pro/img/card_ed/BarbBarrel.png">
+</div>
+
 
 I don't have my Website, but i'm have my [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/sayg00dbye) account<br/>
 
